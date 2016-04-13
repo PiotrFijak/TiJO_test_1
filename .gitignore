@@ -5,3 +5,5 @@ dist
 bower_components
 *.iml
 .idea
+!secret/*.js
+scripts/**/*.js
